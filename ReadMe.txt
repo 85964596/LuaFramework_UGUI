@@ -21,6 +21,14 @@ XlsxToLua:   https://github.com/zhangqi-ulua/XlsxToLua
 UnityHello:  https://github.com/woshihuo12/UnityHello
 Excel配置：https://github.com/sy-yanghuan/proton
 
+//-------------2017-07-27-------------
+(1)更新tolua#到1.0.7.350版
+
+//-------------2017-07-20-------------
+(1)更新tolua#到1.0.7.344版
+(2)提供了最新版的sproto的底层库。由于luajit2.1 b3改动较大，
+   需要修改很多代码才能编译OK，因此我单独提供了。但是主线分支依然保留老版本的sproto。
+
 //-------------2017-07-18-------------
 (1)修复部分BUG报错。
 (2)修复MAC下编码Lua文件可执行文件路径。
