@@ -33,3 +33,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+/Assets/LuaFramework/ToLua/Source/Generate/
+
