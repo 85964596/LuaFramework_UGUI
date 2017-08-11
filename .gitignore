@@ -34,4 +34,7 @@ sysinfo.txt
 *.unitypackage
 
 /Assets/LuaFramework/ToLua/Source/Generate/*wrap.cs
+/Assets/LuaFramework/ToLua/Source/Generate/*.meta
+
+Library/metadata/
 
