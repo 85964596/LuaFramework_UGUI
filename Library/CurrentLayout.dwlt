@@ -88,10 +88,10 @@ MonoBehaviour:
     y: 30
     width: 1680
     height: 948
-  m_MinSize: {x: 917, y: 342}
-  m_MaxSize: {x: 22012, y: 10021}
+  m_MinSize: {x: 911, y: 342}
+  m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 139
+  controlID: 62
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 342}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 42
+  controlID: 43
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,8 +154,8 @@ MonoBehaviour:
     y: 0
     width: 271
     height: 948
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -204,8 +204,8 @@ MonoBehaviour:
     y: 0
     width: 384
     height: 948
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -348,9 +348,9 @@ MonoBehaviour:
     height: 927
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 74d6ffff
-    m_LastClickedID: -10636
-    m_ExpandedIDs: 74d6ffffdef8ffff00000000
+    m_SelectedIDs: be320000
+    m_LastClickedID: 0
+    m_ExpandedIDs: cef4ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -444,7 +444,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/LuaFramework/ToLua/Source/Generate
+    - Assets/LuaFramework
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -455,7 +455,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 94030000
     m_LastClickedID: 916
-    m_ExpandedIDs: 0000000058310000663100006c31000090310000e0310000243200004c3200006e320000803200008c32000094320000a0320000aa320000ca320000e0320000f032000054330000623300009a330000b833000026340000
+    m_ExpandedIDs: 00000000c2300000d0300000d6300000fa300000063100004a3100008e310000b6310000d8310000ea310000f6310000fe3100000a32000014320000343200004a3200005a32000078320000be320000cc32000004330000223300009c330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -483,21 +483,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000058310000663100006c31000090310000e0310000243200004c3200006e320000803200008c32000094320000a0320000aa320000ca320000e0320000f032000054330000623300009a330000b833000026340000
+    m_ExpandedIDs: 00000000c2300000d0300000d6300000fa300000063100004a3100008e310000b6310000d8310000ea310000f6310000fe3100000a32000014320000343200004a3200005a32000078320000be320000cc32000004330000223300009c330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: LuaBinder
-      m_OriginalName: LuaBinder
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 1496
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
